@@ -101,6 +101,20 @@ h4 {
 
 }
 
+.sidebar {
+    float: inline-end;
+    position: sticky;
+
+
+}
+
+.sidebarlinks {
+    float: inline-end;
+    position: sticky;
+    background-color: yellow;
+    
+
+}
 
 .pie {
     background-color: #0dcaf0;;
