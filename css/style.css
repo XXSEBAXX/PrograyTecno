@@ -95,6 +95,13 @@ h4 {
     display: inline-block;
 }
 
+.banner {
+    margin-top: 20px;
+    margin-bottom: 30px;
+
+}
+
+
 .pie {
     background-color: #0dcaf0;;
     border-color: #0dcaf0;;
