@@ -1,0 +1,17 @@
+
+.parrafoarticulos {
+    list-style: none;
+
+}
+
+.parrafoarticulos2 {
+    text-align: start;
+    margin-right: 50px;
+    text-align: justify;
+
+}
+
+.containerarticulo {
+    background-color: #c1c4c6;
+
+}
