@@ -12,7 +12,12 @@
 
 .parrafoentrada {
     font-family: 'Dancing Script', cursive;
-    margin-bottom: 12px;
+    text-align: start;
+    font-size: 18px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    text-decoration: none;
+    
 }
 
 .tituloentrada {
