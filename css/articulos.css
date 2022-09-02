@@ -34,4 +34,15 @@
 .video {
     align-items: center;
     align-content: center;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    margin-left: 30px;
+}
+
+.imagen {
+    align-items: center;
+    align-content: center;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    margin-left: 30px;
 }
