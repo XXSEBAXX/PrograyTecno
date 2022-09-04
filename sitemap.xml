@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://programacionytecnologia.com/</loc>
+  <lastmod>2022-09-04T00:03:11+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/index.html</loc>
+  <lastmod>2022-09-04T00:03:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/pages/programacion.html</loc>
+  <lastmod>2022-09-03T20:27:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/pages/basededatos.html</loc>
+  <lastmod>2022-09-03T20:27:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/pages/cursos.html</loc>
+  <lastmod>2022-09-03T20:27:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/pages/utilidades.html</loc>
+  <lastmod>2022-09-03T20:27:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/pages/acerca.html</loc>
+  <lastmod>2022-09-03T20:27:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/articles/bootstrap-carrusel.html</loc>
+  <lastmod>2022-09-04T00:04:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/articles/css-herencia.html</loc>
+  <lastmod>2022-09-04T00:04:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/articles/csharp-ciclos.html</loc>
+  <lastmod>2022-09-04T00:04:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/articles/dominio-en-internet.html</loc>
+  <lastmod>2022-09-04T00:04:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/articles/git_github-comandos-basicos.html</loc>
+  <lastmod>2022-09-04T00:04:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/articles/hosting-en-internet.html</loc>
+  <lastmod>2022-09-04T00:04:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/pages_basedatos/mongodb-Introduccion.html</loc>
+  <lastmod>2022-09-03T20:27:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/articles/mysql-introduccion.html</loc>
+  <lastmod>2022-09-04T00:04:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/articles/node-introduccion.html</loc>
+  <lastmod>2022-09-04T00:04:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/articles/visualstudio-introduccion.html</loc>
+  <lastmod>2022-09-04T00:04:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/articles/java-herencia-clases.html</loc>
+  <lastmod>2022-09-04T00:04:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/pages_sidebar/javascript.html</loc>
+  <lastmod>2022-09-03T20:27:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/pages_sidebar/java.html</loc>
+  <lastmod>2022-09-03T20:27:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/pages_sidebar/php.html</loc>
+  <lastmod>2022-09-03T20:27:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/pages_sidebar/csharp.html</loc>
+  <lastmod>2022-09-03T20:27:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/pages_sidebar/mysql.html</loc>
+  <lastmod>2022-09-03T20:27:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/pages_sidebar/html.html</loc>
+  <lastmod>2022-09-03T20:27:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/pages_sidebar/css.html</loc>
+  <lastmod>2022-09-03T20:27:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/pages_sidebar/bootstrap.html</loc>
+  <lastmod>2022-09-03T20:27:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/pages_sidebar/sass.html</loc>
+  <lastmod>2022-09-03T20:27:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/pages_sidebar/git_github.html</loc>
+  <lastmod>2022-09-03T20:27:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/pages_sidebar/node.html</loc>
+  <lastmod>2022-09-03T20:27:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/pages_paginacion/2.html</loc>
+  <lastmod>2022-09-03T20:27:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/pages_paginacion/3.html</loc>
+  <lastmod>2022-09-03T20:27:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/pages_paginacion/4.html</loc>
+  <lastmod>2022-09-03T20:27:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/pages_paginacion/5.html</loc>
+  <lastmod>2022-09-03T20:27:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/pages_paginacion/6.html</loc>
+  <lastmod>2022-09-03T20:27:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/pages_paginacion/7.html</loc>
+  <lastmod>2022-09-03T20:27:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/pages_paginacion/8.html</loc>
+  <lastmod>2022-09-03T20:27:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/pages_paginacion/9.html</loc>
+  <lastmod>2022-09-03T20:27:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/pages_paginacion/13.html</loc>
+  <lastmod>2022-09-03T20:27:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/articles/java-instalacion.html</loc>
+  <lastmod>2022-09-04T00:04:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/articles/php-introduccion.html</loc>
+  <lastmod>2022-09-04T00:04:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/articles/javascript-tipo-datos.html</loc>
+  <lastmod>2022-09-04T00:04:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/articles/csharp-tipos-de-datos.html</loc>
+  <lastmod>2022-09-04T00:04:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/pages_basedatos/mysql-introduccion.html</loc>
+  <lastmod>2022-09-03T20:27:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/pages_basedatos/sqlserver-introduccion.html</loc>
+  <lastmod>2022-09-03T20:27:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/pages_basedatos/postgresql-introduccion.html</loc>
+  <lastmod>2022-09-03T20:27:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/pages_cursos/java_cursos.html</loc>
+  <lastmod>2022-09-03T20:27:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/pages_cursos/javascript_cursos.html</loc>
+  <lastmod>2022-09-03T20:27:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/pages_cursos/php_cursos.html</loc>
+  <lastmod>2022-09-03T20:27:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/pages_cursos/html_cursos.html</loc>
+  <lastmod>2022-09-03T20:27:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/articles/seo-introduccion.html</loc>
+  <lastmod>2022-09-04T00:04:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/articles/javascript-estructuras-control.html</loc>
+  <lastmod>2022-09-04T00:04:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/articles/javascript-funciones.html</loc>
+  <lastmod>2022-09-04T00:04:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/articles/javascript-mejor-framework.html</loc>
+  <lastmod>2022-09-04T00:04:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/articles/java-tipo-datos.html</loc>
+  <lastmod>2022-09-04T00:04:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/articles/java-sentencias-control.html</loc>
+  <lastmod>2022-09-04T00:04:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/articles/php-tipo-datos.html</loc>
+  <lastmod>2022-09-04T00:04:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/articles/php-funciones.html</loc>
+  <lastmod>2022-09-04T00:04:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/articles/php-estructura-control.html</loc>
+  <lastmod>2022-09-04T00:04:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/articles/csharp-sentencias-de-control.html</loc>
+  <lastmod>2022-09-04T00:04:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/articles/csharp-funciones.html</loc>
+  <lastmod>2022-09-04T00:04:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/articles/mysql-consultas-basicas.html</loc>
+  <lastmod>2022-09-04T00:04:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/articles/mysql-crear-tablas.html</loc>
+  <lastmod>2022-09-04T00:04:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/articles/mysql-insertar-datos.html</loc>
+  <lastmod>2022-09-04T00:04:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/articles/html-estructura-basica.html</loc>
+  <lastmod>2022-09-04T00:04:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/articles/html-etiquetas.html</loc>
+  <lastmod>2022-09-04T00:04:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/articles/html-formulario.html</loc>
+  <lastmod>2022-09-04T00:04:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/articles/html-insertar-imagenes.html</loc>
+  <lastmod>2022-09-04T00:04:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/articles/css-introduccion.html</loc>
+  <lastmod>2022-09-04T00:04:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/articles/css-id-clases.html</loc>
+  <lastmod>2022-09-04T00:04:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/articles/css-propiedades.html</loc>
+  <lastmod>2022-09-04T00:04:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/articles/bootstrap-instalacion.html</loc>
+  <lastmod>2022-09-04T00:04:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/articles/bootstrap-colores.html</loc>
+  <lastmod>2022-09-04T00:04:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/articles/bootstrap-columnas-filas.html</loc>
+  <lastmod>2022-09-04T00:04:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/articles/sass-introduccion.html</loc>
+  <lastmod>2022-09-04T00:04:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/articles/sass-extends.html</loc>
+  <lastmod>2022-09-04T00:04:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/articles/sass-mixinds.html</loc>
+  <lastmod>2022-09-04T00:04:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/articles/sass-maps.html</loc>
+  <lastmod>2022-09-04T00:04:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/articles/git_github-introduccion.html</loc>
+  <lastmod>2022-09-04T00:04:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/articles/git_github-diferencias.html</loc>
+  <lastmod>2022-09-04T00:04:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/articles/github-alternativas.html</loc>
+  <lastmod>2022-09-04T00:04:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/articles/node3.html</loc>
+  <lastmod>2022-09-04T00:04:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/articles/node4.html</loc>
+  <lastmod>2022-09-04T00:04:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/articles/node-modulos.html</loc>
+  <lastmod>2022-09-04T00:04:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/pages_paginacion/10.html</loc>
+  <lastmod>2022-09-03T20:27:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/pages_paginacion/11.html</loc>
+  <lastmod>2022-09-03T20:27:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://programacionytecnologia.com/pages_paginacion/12.html</loc>
+  <lastmod>2022-09-03T20:27:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
