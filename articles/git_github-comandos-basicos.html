@@ -104,47 +104,64 @@
                             <div class="container">
 
                                 <p class="parrafoentrada">
-                                    Herencia en java es uno de los conceptos caves en la POO
-                                    por eso ahora entenderemos mas en profunfidad este concepto
+                                    Los comandos basicos de git y github son aquellos que nos permitan
+                                    tanto guardar los avances de nuestro proyecto como traer los archivos
+                                    del repositorio en la nube al repositorio local para poder trabajar con el
+                                    proyecto.
+                                </p>
+                                <p class="parrafoentrada"></p>
+                                     Si es la primer vez que va a usar git, le recomiendo ver primero la introduccion
+                                     de git, luego de esto vamos a ver los primeros comandos para empezar a trabajar
+                                </p>
+                                <p class="parrafoentrada"></p>
+                                     El primer comando para iniciar git es "git init", este comando se debe ejecutar
+                                     en la consola ya sea de windows o Mac, y se debe estar dentro de la carpeta en
+                                     la cual se va a trabajar como sigue..
 
-                                    por ejemlo si tubieramos la clase movil de la cual se heredan
-                                    otras clases como pueden ser automovil, camion, bus, etc.
                                 </p>
 
                                 <blockquote class="parrafoentrada">
-                                    Herencia en java es uno de los conceptos caves en la POO
-                                    por eso ahora entenderemos mas en profunfidad este concepto
-
-                                    por ejemlo si tubieramos la clase movil de la cual se heredan
-                                    otras clases como pueden ser automovil, camion, bus, etc.
-
-                                    Para poder ocupar herencia hacemos uso de la palabra reservada extends
-                                    como se muestra a continuacion:
+                                    Una vez inicializado git debemos tener en cuenta si lo que vamos a hacer es inciciar
+                                    un proyecto desde cero o si vamos a trabajar con un proyecto que ya esta en linea
                                 </blockquote>
+                                <p class="parrafoentrada">  
+                                    Para el primer caso debemos crear nuestros primeros archivos y carpetas antes de poder
+                                    guardar algo. Para el segundo caso usamos el comando git clone seguido del enlace al 
+                                    repositorio el cual vamos a trabajar.
+                                </p>      
+                                <p class="parrafoentrada">
+                                    Cuando ya tengamos algunos archivos creados o ya tengamos clonado algun proyecto
+                                    debemos guardar estos archivos en nuestro repositorio local, para eso hacemos uso de 
+                                    los siguientes pasos.
+                                </p>  
 
                                 <ul class="parrafoentrada">
-                                    <li> Clase Movil - Clase Padre</li>
+                                    <li> Git status - Para ver que archivos no se han guardado todavia</li>
 
-                                    <li> Clase Automovil extends Clase Movil - Clase Hija </li>
+                                    <li> Git add . - Para guaradr todos los archivos en el repositorio local </li>
 
-                                    <li> Clase Bus extends Clase Movil - Clase Hija</li>
-
+                                    <li> Git status - Para confirmar que todos los archivos se allan guardado</li>
                                 </ul>
 
                                 <p class="parrafoentrada">
-                                    Herencia en java es uno de los conceptos caves en la POO
-                                    por eso ahora entenderemos mas en profunfidad este concepto
-
-                                    por ejemlo si tubieramos la clase movil de la cual se heredan
-                                    otras clases como pueden ser automovil, camion, bus, etc.
+                                    Luego de guardar los archivos en el repsositorio local, podemos enviar
+                                    los archivos al repositorio en la nube o github, u otra <a href="../articles/github-alternativas.html">
+                                    alternativa a github</a> para eso hacemos uso de los siguientes comandos
                                 </p>
+                                <ul class="parrafoentrada">
+                                    <li> Git commit -m "detalle" - donde detalle es un nombre a eleccion y va con comillas</li>
 
+                                    <li> Git push origin nombreRepositorio - el nombre del repositorio es generalmente main o master </li>
+                                </ul>
+
+                                <p class="parrafoentrada">
+                                    Con esto ya tenemos nuestros archivos guaraddo tanto en el repositorio local
+                                    como el repositorio en la nube. En el caso de cometer un error en nuestro codigo y queramos
+                                    recuperar lo guardado en githube usamos el comando git pull origin nombreRepositorio.
+                                </p>
                                 <p class="parrafofinal">
-                                    Herencia en java es uno de los conceptos caves en la POO
-                                    por eso ahora entenderemos mas en profunfidad este concepto
-
-                                    por ejemlo si tubieramos la clase movil de la cual se heredan
-                                    otras clases como pueden ser automovil, camion, bus, etc.
+                                    En el caso de tener dudas entre la diferencias de git y github, puede ver el siguiente 
+                                    articulo <a href="../articles/git_github-diferencias.html">diferencias git y github</a>
                                 </p>
                             </div>
 

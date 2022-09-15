@@ -104,47 +104,84 @@
                             <div class="container">
 
                                 <p class="parrafoentrada">
-                                    Herencia en java es uno de los conceptos caves en la POO
-                                    por eso ahora entenderemos mas en profunfidad este concepto
+                                    Muchos se preguntan si git y github o no son acaso lo mismo, o cual seria 
+                                    la diferencia entre estas dos herramientas de versonamiento, pues la 
+                                    verdad es que ambas tienen similitudes entre ellas como por ejemplo que 
+                                    nos permiten controlar el codigo y las versiones del codigo.
 
-                                    por ejemlo si tubieramos la clase movil de la cual se heredan
-                                    otras clases como pueden ser automovil, camion, bus, etc.
                                 </p>
 
                                 <blockquote class="parrafoentrada">
-                                    Herencia en java es uno de los conceptos caves en la POO
-                                    por eso ahora entenderemos mas en profunfidad este concepto
-
-                                    por ejemlo si tubieramos la clase movil de la cual se heredan
-                                    otras clases como pueden ser automovil, camion, bus, etc.
-
-                                    Para poder ocupar herencia hacemos uso de la palabra reservada extends
-                                    como se muestra a continuacion:
+                                    
+                                    Por un lado tenemos a git que nos permite guardar los cambios de nuestro
+                                    codigo de manera local en nuestra computadora, asi por ejemplo si por error
+                                    borramos alguna pagina html, componente, archivo css, etc. podemos recuperarlo
+                                    sin mayor problemas, ya que git crea una carpeta oculta donde se guardan nuestros 
+                                    avances. para guardar nuestros avances tenemos que tener git instalado e inicializado
+                                    luego hacer uso de los siguientes comandos desde la consola de windows o mac:
                                 </blockquote>
+                                <p class="parrafoentrada">
+                                    nota: tenemos que estar dentro de la carpeta de nuestro proyecto para ejecutarlo
+
+                                </p>
 
                                 <ul class="parrafoentrada">
-                                    <li> Clase Movil - Clase Padre</li>
+                                    <li> git status - Para ver los archivos no guardados en color rojo</li>
 
-                                    <li> Clase Automovil extends Clase Movil - Clase Hija </li>
+                                    <li> git add .-  Para añadir los archivos al repositorio git </li>
 
-                                    <li> Clase Bus extends Clase Movil - Clase Hija</li>
+                                    <li> git status - Podremos ver los archivos guardaso en color verde</li>
 
                                 </ul>
 
                                 <p class="parrafoentrada">
-                                    Herencia en java es uno de los conceptos caves en la POO
-                                    por eso ahora entenderemos mas en profunfidad este concepto
+                                    A diferencia de lo anterior github hace lo mismo pero salva nuestro codigo
+                                    de manera remota o en la nube, esto es muy util si pensamos que si estamos
+                                    escribiendo un codigo y llegamos a perder acceso a esa computadora, podemos
+                                    recuperar nuestro trabajo desde otro dispositivo. 
+                                    
+                                   
+                                </p>    
+                                <p class="parrafoentrada">  
+                                    la otra diferencia con git
+                                    es que github nos permite compartir nuestro codigo con otros desarrolladores
+                                    los que pueden aportar y trabajar en el proyeto. Para hacer uso del repositorio
+                                    remoto podemos hacer uso de los siguientes comandos:
 
-                                    por ejemlo si tubieramos la clase movil de la cual se heredan
-                                    otras clases como pueden ser automovil, camion, bus, etc.
+                                </p>
+                                <p class="parrafoentrada">
+                                    nota: Primero tenemos que guardar los cambios en el repositorio local como se señala
+                                    anteriormente y luego al repositorio remoto
+
                                 </p>
 
-                                <p class="parrafofinal">
-                                    Herencia en java es uno de los conceptos caves en la POO
-                                    por eso ahora entenderemos mas en profunfidad este concepto
 
-                                    por ejemlo si tubieramos la clase movil de la cual se heredan
-                                    otras clases como pueden ser automovil, camion, bus, etc.
+                                <ul class="parrafoentrada">
+                                    <li> git commit -m "mensaje" - En mensaje colocamos alguna carasteristica de lo guardado </li>
+
+                                    <li> git push origin nombre rama  -  Donde nombre rama puede ser main master u otra que 
+                                         hubiesemos creado
+                                    </li>
+
+                                </ul>
+
+                                <p class="parrafoentrada">
+                                    si queremos recuperar lo guardado en el repositorio en la nube hacemos uso del 
+                                    siguiente comando
+
+                                </p>
+
+                                <ul class="parrafoentrada">
+                                    <li> git pull origin nombre rama - Donde nombre rama puede ser main master u otra que 
+                                        hubiesemos creado </li>
+                                </ul>
+
+
+                                <p class="parrafofinal">
+                                    Como vemos la mayores diferencias entre git y github tienen que ver con que una trabaja
+                                    de manera local y la otra de manera remota. Pero ambas nos ayudan a salvaguardar nuestro
+                                    codigo en caso de cometer errores, pero tambien en caso de github de compartir nuestro 
+                                    codigo con algun equipo de trabajo.
                                 </p>
                             </div>
 
@@ -195,7 +232,6 @@
         </div>
 
 
-
         <div class="row mt-8 mb-7 me-7 ms-4 pe-5 d-flex p-2 d-flex justify-content-center ">
             <div class="col-sm-12 col-md-12 col-lg-12 col-xl-10 ">
                 <script async
@@ -220,7 +256,6 @@
     </section>
 
     <!-- Bootstrap -->
-
 
     <!-- JavaScript Bundle with Popper -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"
